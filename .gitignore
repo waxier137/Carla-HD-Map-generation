@@ -1,0 +1,55 @@
+# =========================
+# ROS 2 Workspace Artifacts
+# =========================
+build/
+install/
+log/
+
+# =========================
+# Python Cache & Virtual Envs
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.env
+.venv
+venv/
+
+# =========================
+# Large Data & Bag Files
+# =========================
+# Note: If you want to upload a small sample bag file or .pcd, 
+# you can force add it later using 'git add -f filename'
+*.db3
+rosbag2_*/
+*.bag
+
+# =========================
+# IDE & OS Configurations
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db*.mcap
