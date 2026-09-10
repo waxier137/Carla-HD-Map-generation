@@ -2,7 +2,7 @@
 
 An end-to-end autonomous vehicle software stack bridging the CARLA simulator with native ROS 2. This project features an offline High-Definition (HD) vector mapping pipeline and a real-time autonomous navigation stack using a Pure Pursuit controller.
 
-**Author:** Phuong Bao Quyen Tran (Quinn)
+**Author:** Lucas Nguyen
 
 ## Requirements
 - **OS:** Ubuntu 24.04 LTS
